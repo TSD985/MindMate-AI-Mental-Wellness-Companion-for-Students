@@ -1,0 +1,2 @@
+# MindMate-AI-Mental-Wellness-Companion-for-Students
+It is an AI mental wellness platform for students, built with Flask, HTML/CSS/JavaScript, SQLite, and a Bi-LSTM with Attention Mechanism. It is trained on 19,000+ labeled samples and achieves around 91% emotion classification accuracy for Hinglish conversations, with support for risk analysis, empathetic response generation, and specialist routing.
